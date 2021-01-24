@@ -1,2 +1,3 @@
-# warp-speed
-I am a star wars fanatic, and so I thought about creating a model of going into WARP-SPEED! However, in this scenario, horizontal movements of the mouse increase/decrease the speed, and vertical/horizontal movements adjust the width of the so-called 'stars'.
+## Overview
+
+As a star-wars fanatic and a newbie to Javascript, I decided to put two and two together. This was one of my original projects several months ago, where I was first introduced to Math.Random() and mouseX/mouseY functions. 
